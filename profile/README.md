@@ -8,6 +8,8 @@
 </picture>
 </a>
 
+#
+
 ### Bring the magic of ChatGPT to Brave Search 🦁 (powered by GPT-4!)
 
 #### [GitHub](https://github.com/kudoai/bravegpt) &nbsp;/ &nbsp;[Website](https://bravegpt.com)
