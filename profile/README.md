@@ -10,7 +10,7 @@
 
 #
 
-### AI chat & search summaries in Brave Search, powered by the latest LLMs
+### 🦁 AI chat & search summaries in Brave Search, powered by the latest LLMs
 
 #
 
