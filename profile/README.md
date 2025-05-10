@@ -1,19 +1,19 @@
 <div align="center">
 <br />
 
-<a href="https://bravegpt.com">
+<a href="https://www.bravegpt.com">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kudoai/bravegpt/main/media/images/bravegpt-logo-dark-mode-730x135.png">
-    <img width=600 src="https://raw.githubusercontent.com/kudoai/bravegpt/main/media/images/bravegpt-logo-light-mode-730x135.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.bravegpt.com/images/logos/app/darkmode/logo730x155.png">
+    <img alt="BraveGPT" width=600 src="https://assets.bravegpt.com/images/logos/app/lightmode/logo730x155.png">
 </picture>
 </a>
 
 #
 
-### Bring the magic of ChatGPT to Brave Search 🦁 (powered by GPT-4!)
+### AI chat & search summaries in Brave Search, powered by the latest LLMs
 
 #
 
-#### [GitHub](https://github.com/kudoai/bravegpt) &nbsp;/ &nbsp;[Website](https://bravegpt.com)
+#### [GitHub](https://github.com/KudoAI/bravegpt) &nbsp;/ &nbsp;[Website](https://www.bravegpt.com)
 
 </div>
